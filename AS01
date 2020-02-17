@@ -1,0 +1,25 @@
+Matricula: 576503
+Nome: Temístocles Altivo Schwartz
+AS01
+1.
+Modelo de dados: Representação dos dados abstraídos e seus relacionamentos baseados no contexto em que estão inseridos.
+Esquema de banco de dados: A representação do contexto em linguagem formal, pelo contexto que deverá ser suportado e armazenado.
+Estado de banco de dados:
+Esquema interno: Representação da estrutura fisica de armazenamento dos dados.
+Esquema conceitual: Representação do contexto com alto nível de abstração, com a descrição do problema proxima ao problema real.
+Esquema externo: Representa de acordo com o contexto os usuários que terão acesso ou devem ser representados pelos dados armazenados.
+Independência de banco de dados: Os dados podem ser fisicamente modificados sem que a alteração de um dependa do outro. 
+DDL: Linguagem de definição de dados, utilizada para criação de tabelas.
+DML: Linguagem de manipulação de dados, utilizada para modificar e inserir dados em tabelas já criadas.
+VDL: Linguagem de definição de visões, utilizada para definir níveis de permissões para diferentes usuários.
+SDL: Linguagem de definição de armazenamento, utilizada para definir como os dados serão armazenados.
+Linguagem de consulta: Linguagem para pesquisas em uma estrutura de dados.
+Linguagem hospedeira: Linguagem da aplicação que irá utilizar e manipular os dados.
+Sublinguagem de dados: Linguagem de operações que é embutida na linguagem da aplicação.
+Utilitário de banco de dados:
+Catálogo: Metadados armazenados pelo SGBD sobre os dados do contexto em que estiverem inseridos.
+Arquitetura cliente/servidor: Distribuição de recursos de acordo com o processamento necessário para cada parte da aplicação. Onde cliente faz requisições, e o servidor executa e gera respostas.
+Arquitetura de três camadas:
+Arquitetura de n camadas:
+
+
